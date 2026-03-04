@@ -28,6 +28,15 @@ Hoja de cálculo en SQL: proyecciones, pronósticos y reglas sobre celdas multid
 | Documentación | [MODEL.md](https://github.com/nzepedacc/Oracle_Window_Functions/blob/main/MODEL.md) |
 | Query de ejemplo | [ModelQuery.sql](https://github.com/nzepedacc/Oracle_Window_Functions/blob/main/ModelQuery.sql) |
 
+### WINDOW FUNCTIONS
+
+Cálculos sobre un conjunto de filas relacionadas con la fila actual.
+
+| Recurso | Enlace |
+|--------|--------|
+| Documentación | [OracleWindowFunctions.md](https://github.com/nzepedacc/Oracle_Window_Functions/blob/main/OracleWindowFunctions.md) |
+| Query de ejemplo | [ModelQuery.sql](https://github.com/nzepedacc/Oracle_Window_Functions/blob/main/OracleWindowFunctions.sql) |
+
 ### Más en camino
 
 Se irán incorporando más funciones y cláusulas avanzadas (window functions, LISTAGG, análisis temporal, etc.) con su documentación y ejemplos.
